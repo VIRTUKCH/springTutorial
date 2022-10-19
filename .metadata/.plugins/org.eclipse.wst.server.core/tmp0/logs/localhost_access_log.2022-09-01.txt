@@ -1,0 +1,6 @@
+127.0.0.1 - - [01/Sep/2022:14:00:57 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [01/Sep/2022:14:00:58 +0900] "GET /ch2/WEB-INF/classes/com/fastcampus/ch2/LoginController.java HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [01/Sep/2022:14:00:59 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [01/Sep/2022:14:01:07 +0900] "GET /ch2/register/add HTTP/1.1" 200 3885
+0:0:0:0:0:0:0:1 - - [01/Sep/2022:14:02:20 +0900] "POST /ch2/register/add;jsessionid=7EEA811CBBEAD5A3274283D38E3FA01C HTTP/1.1" 400 843
+0:0:0:0:0:0:0:1 - - [01/Sep/2022:14:02:40 +0900] "GET /ch2/login/login HTTP/1.1" 200 3106
